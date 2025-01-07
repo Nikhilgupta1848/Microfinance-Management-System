@@ -13,7 +13,7 @@ The **Microfinance Management System** is a web-based application designed to st
 ## Screenshots
 ### Login Page
 ![image](https://github.com/user-attachments/assets/e582853a-1426-49bc-80ff-db57b047e688)
-)
+
 
 ### Dashboard
 ![image](https://github.com/user-attachments/assets/0b7700c9-4d94-47e7-ac6a-234a31ebf10f)
@@ -25,7 +25,7 @@ The **Microfinance Management System** is a web-based application designed to st
 
 
 ### Databse localhost
-(![image](https://github.com/user-attachments/assets/f83b62e8-4bc7-46db-ab44-5e2f0b53e034)
+![image](https://github.com/user-attachments/assets/f83b62e8-4bc7-46db-ab44-5e2f0b53e034)
 
 
 ## Conclusion

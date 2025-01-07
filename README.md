@@ -12,22 +12,22 @@ The **Microfinance Management System** is a web-based application designed to st
 
 ## Screenshots
 ### Login Page
-![Login Page](![image](https://github.com/user-attachments/assets/e582853a-1426-49bc-80ff-db57b047e688)
+(![image](https://github.com/user-attachments/assets/e582853a-1426-49bc-80ff-db57b047e688)
 )
 
 ### Dashboard
-![Dashboard](![image](https://github.com/user-attachments/assets/0b7700c9-4d94-47e7-ac6a-234a31ebf10f)
-)
+(![image](https://github.com/user-attachments/assets/0b7700c9-4d94-47e7-ac6a-234a31ebf10f)
+
 
 ### Add Customer
-![Add Customer](![image](https://github.com/user-attachments/assets/3047d0f3-5c16-4c4d-8343-a27c1e99431e)
-)
+(![image](https://github.com/user-attachments/assets/3047d0f3-5c16-4c4d-8343-a27c1e99431e)
+
 
 
 
 ### Databse localhost
-![DB local](![image](https://github.com/user-attachments/assets/f83b62e8-4bc7-46db-ab44-5e2f0b53e034)
-)
+(![image](https://github.com/user-attachments/assets/f83b62e8-4bc7-46db-ab44-5e2f0b53e034)
+
 
 ## Conclusion
 The **Microfinance Management System** has been successfully implemented to address the needs of microfinance operations. Its intuitive design and robust backend improve efficiency and reduce manual tasks, making it a valuable tool for managing microfinance data.

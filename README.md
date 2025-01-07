@@ -69,4 +69,4 @@ The **Microfinance Management System** has been successfully implemented to addr
 - [Stack Overflow](https://stackoverflow.com)
 
 ---
-Feel free to update with additional details or resources as necessary.
+
